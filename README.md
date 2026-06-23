@@ -26,8 +26,9 @@ Sales Retail Transactions Dataset
 - Python
 - Pandas
 - NumPy
-- Jupyter Notebook
-
+- Google Colab
 ## Output
 Cleaned dataset saved as:
 - cleaned_sales_data.xlsx
+
+
